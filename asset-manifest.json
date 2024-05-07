@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/venkys-week9/static/css/main.f9d4d984.css",
+    "main.js": "/venkys-week9/static/js/main.cd36d1ad.js",
+    "static/js/592.2576992a.chunk.js": "/venkys-week9/static/js/592.2576992a.chunk.js",
+    "index.html": "/venkys-week9/index.html",
+    "main.f9d4d984.css.map": "/venkys-week9/static/css/main.f9d4d984.css.map",
+    "main.cd36d1ad.js.map": "/venkys-week9/static/js/main.cd36d1ad.js.map",
+    "592.2576992a.chunk.js.map": "/venkys-week9/static/js/592.2576992a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9d4d984.css",
+    "static/js/main.cd36d1ad.js"
+  ]
+}
